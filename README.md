@@ -1,21 +1,26 @@
 <div align="center">
+  <!-- Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Kalidindi%20Vijaya%20Rama%20Raju&fontSize=48&fontColor=000000&animation=fadeIn&fontAlignY=36" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Cloud+Solutions+Architect;Solution+Architect;CKA+%7C+RHCE+%7C+RHCSA+%7C+VCP;DevOps+and+Automation+Specialist;AI+Generalist" />
+  <!-- Animated Typing -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Cloud+Solutions+Architect;Platform+and+DevOps+Engineering;Kubernetes+and+OpenShift+at+Scale;Infrastructure+Automation+with+Python;AI+Generalist+for+Cloud+Operations" />
 </div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212750200-6d9f4b17-2b1f-4c25-9d47-8e6c63a7b7e3.gif" width="100%" />
 
 ---
 
 ## 👋 About Me
 
-I am a **Cloud Solutions Architect** with strong hands-on experience in designing, deploying, and operating enterprise-scale infrastructure platforms.
+I am a **Cloud Solutions Architect** with strong hands-on experience designing, deploying, and operating enterprise-scale infrastructure platforms.
 
-I focus on converting complex infrastructure challenges into **secure, scalable, and automated solutions**.
+I specialize in building **secure, scalable, and automated cloud-native systems** that are production ready.
 
 • Private cloud and container platforms  
-• Production-grade Kubernetes and OpenShift  
+• Kubernetes and OpenShift operations  
 • Infrastructure automation and reliability  
-• AI-assisted operations and tooling  
+• AI-assisted cloud operations  
 
 ---
 
@@ -23,9 +28,16 @@ I focus on converting complex infrastructure challenges into **secure, scalable,
 
 • OpenStack and OpenShift platform architecture  
 • Kubernetes cluster lifecycle management  
-• Infrastructure automation using Ansible and Python  
+• Automation using Ansible and Python  
 • VMware virtualization and Linux systems  
 • DevOps pipelines and GitOps workflows  
+
+---
+
+<!-- Animated Flow Banner -->
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Design&text2=Automate&text3=Operate&width=800&height=120" />
+</div>
 
 ---
 
@@ -51,8 +63,6 @@ I focus on converting complex infrastructure challenges into **secure, scalable,
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Enterprise_Storage-4B4B4B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
@@ -85,24 +95,13 @@ I focus on converting complex infrastructure challenges into **secure, scalable,
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity Overview
 
-<div align="center">
+• Active contributor across cloud, DevOps, and platform engineering projects  
+• Hands-on experimentation with automation, Kubernetes, and AI tooling  
+• Architecture-driven development backed by execution  
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijayaramaraju-kalidindi&theme=tokyonight" />
-
-</div>
-
----
-
-## 🧩 Areas of Interest
-
-• Platform Engineering  
-• Cloud Native Architecture  
-• Kubernetes Internals  
-• Infrastructure Automation  
-• Observability and Reliability  
-• AI-assisted Operations  
+⬇️ Scroll down to view GitHub native contribution graph and pinned repositories.
 
 ---
 
@@ -117,9 +116,5 @@ I focus on converting complex infrastructure challenges into **secure, scalable,
 <a href="mailto:vijayramaraju.kalidindi@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=vijayaramaraju-kalidindi&label=Profile%20Views&color=blue&style=flat-square" />
 
 </div>
