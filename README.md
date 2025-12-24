@@ -92,6 +92,9 @@ I focus on converting complex infrastructure challenges into **secure, scalable,
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijayaramaraju-kalidindi&theme=tokyonight" />
 
 </div>
+
+---
+
 ## 🧩 Areas of Interest
 
 • Platform Engineering  
