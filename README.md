@@ -12,7 +12,7 @@
 I am a **Cloud Solutions Engineer** with a proven track record in architecting, deploying, and supporting robust cloud-based infrastructures. I specialize in bridging the gap between complex technology challenges and scalable business solutions.
 
 - ☁️ **Expertise:** OpenStack, OpenShift, Kubernetes, and VMware environments.
-- 🛠️ **Current Focus:** Enhancing expertise in **Ansible, Python, and AI integration** for OS automation.
+- 🛠️ **Current Focus:** Enhancing expertise in **Devops, Python, and AI integration** for OS automation.
 - 🎓 **Certified:** CKA (Kubernetes), RHCE & RHCSA (Red Hat), VCP (VMware).
 - 🧠 **Philosophy:** Building secure, distributed, and high-performing infrastructure platforms.
 
