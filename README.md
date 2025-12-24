@@ -85,17 +85,13 @@ I focus on converting complex infrastructure challenges into **secure, scalable,
 
 ---
 
-## 📊 GitHub Activity Overview
+## 📊 GitHub Analytics
 
-• Active contributor across cloud, DevOps, and platform engineering projects  
-• Hands-on experimentation with automation, Kubernetes, and AI tooling  
-• Continuous learning mindset with real-world implementations  
-• Architecture-driven development supported by practical execution  
+<div align="center">
 
-⬇️ Scroll down to view **GitHub’s native contribution graph** and **pinned repositories**.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijayaramaraju-kalidindi&theme=tokyonight" />
 
----
-
+</div>
 ## 🧩 Areas of Interest
 
 • Platform Engineering  
