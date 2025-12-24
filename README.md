@@ -38,11 +38,11 @@ I am a **Cloud Solutions Engineer** with a proven track record in architecting, 
 
 ### 📊 Engineering Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayaramaraju-kalidindi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vijayaramaraju&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayaramaraju-kalidindi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayaramaraju&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayaramaraju-kalidindi&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayaramaraju&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 <hr />
@@ -52,5 +52,5 @@ I am a **Cloud Solutions Engineer** with a proven track record in architecting, 
   <a href="https://www.linkedin.com/in/kalidindi-vijaya-rama-raju-68050718b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=vijayaramaraju-kalidindi&label=Infrastructure%20Visitors&color=blue&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=vijayaramaraju&label=Infrastructure%20Visitors&color=blue&style=flat-square" alt="Visitor Counter" />
 </div>
