@@ -38,11 +38,11 @@ I am a **Cloud Solutions Engineer** with a proven track record in architecting, 
 
 ### 📊 Engineering Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijayaramaraju&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vijayaramaraju-kalidindi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayaramaraju&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayaramaraju-kalidindi&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayaramaraju&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayaramaraju-kalidindi&theme=tokyonight" alt="Streak Stats" />
 </div>
 
 <hr />
