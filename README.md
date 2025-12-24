@@ -10,7 +10,7 @@
 
 I am a **Cloud Solutions Architect** with strong hands-on experience in designing, deploying, and operating enterprise-scale infrastructure platforms.
 
-I specialize in converting complex infrastructure challenges into **secure, scalable, and automated solutions**.
+I focus on converting complex infrastructure challenges into **secure, scalable, and automated solutions**.
 
 • Private cloud and container platforms  
 • Production-grade Kubernetes and OpenShift  
@@ -85,19 +85,14 @@ I specialize in converting complex infrastructure challenges into **secure, scal
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity Overview
 
-<div align="center">
+• Active contributor across cloud, DevOps, and platform engineering projects  
+• Hands-on experimentation with automation, Kubernetes, and AI tooling  
+• Continuous learning mindset with real-world implementations  
+• Architecture-driven development supported by practical execution  
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijayaramaraju-kalidindi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayaramaraju-kalidindi&layout=compact&theme=tokyonight&hide_border=true" />
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayaramaraju-kalidindi&theme=tokyonight&hide_border=true" />
-
-</div>
+⬇️ Scroll down to view **GitHub’s native contribution graph** and **pinned repositories**.
 
 ---
 
