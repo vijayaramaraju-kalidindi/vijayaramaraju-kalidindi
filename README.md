@@ -117,6 +117,18 @@ I focus on converting complex infrastructure challenges into **secure, scalable,
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a href="https://medium.com/@vijayramaraju.kalidindi">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://vijaya-rama-raju.super.site/">
+  <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://discord.com/invite/j2PNBzQR">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=vijayaramaraju-kalidindi&label=Profile%20Views&color=blue&style=flat-square" />
