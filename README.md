@@ -84,11 +84,13 @@ I focus on converting complex infrastructure challenges into **secure, scalable,
 
 ---
 
-## 📊 GitHub Analytics
+## 🧠 LeetCode Practice
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijayaramaraju-kalidindi&theme=tokyonight" />
+<a href="https://leetcode.com/">
+  <img src="https://leetcard.jacoblin.cool/leetcode?theme=dark&font=Fira%20Code" />
+</a>
 
 </div>
 
@@ -120,5 +122,16 @@ I focus on converting complex infrastructure challenges into **secure, scalable,
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=vijayaramaraju-kalidindi&label=Profile%20Views&color=blue&style=flat-square" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+<br /><br />
+⭐ Feel free to star repositories you find useful or interesting!
 
 </div>
