@@ -84,13 +84,11 @@ I focus on converting complex infrastructure challenges into **secure, scalable,
 
 ---
 
-## 🧠 LeetCode Practice
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-  <img src="https://leetcard.jacoblin.cool/leetcode?theme=dark&font=Fira%20Code" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijayaramaraju-kalidindi&theme=tokyonight" />
 
 </div>
 
