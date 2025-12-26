@@ -129,7 +129,7 @@ I focus on converting complex infrastructure challenges into **secure, scalable,
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-<br /><br />
+<br />
 ⭐ Feel free to star repositories you find useful or interesting!
 
 </div>
